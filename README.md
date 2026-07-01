@@ -39,7 +39,7 @@ Projects
 
 📫 Connect With Me
 
-[💼 LinkedIn: Your LinkedIn Profile](https://www.linkedin.com/in/indhumathi-c-850092308/)
+ [(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]  (https://www.linkedin.com/in/indhumathi-c-850092308/)
 [📧 Email: your-email@example.com] (indhumathi93428@gmail.com)
 [💻 GitHub: https://github.com/your-username](https://github.com/Indhumathi-3373)
 
