@@ -31,6 +31,11 @@ GitHub
 Docker(learning)
 VS Code
 
+Projects 
+[weatherCast](https://weather-cast-swart.vercel.app/)
+[walpsto](https://walpsto.vercel.app/)
+[portfolio](https://indhumathi.vercel.app/)
+
 📫 Connect With Me
 
 [💼 LinkedIn: Your LinkedIn Profile](https://www.linkedin.com/in/indhumathi-c-850092308/)
