@@ -1,5 +1,6 @@
 Hey Guys👋 I'm Indhumathi 
- Aspiring Full stack developer | B.E. Computer Science Engineering
+
+Aspiring Full stack developer | B.E. Computer Science Engineering
 
 I'm a Computer Science student passionate about building practical applications, solving programming problems, and continuously improving my development skills. I enjoy learning how real-world applications are designed and built from frontend interfaces to backend systems.
 
