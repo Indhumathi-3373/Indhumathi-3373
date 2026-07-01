@@ -9,7 +9,7 @@ I'm a Computer Science student passionate about building practical applications,
 
 ## 👩‍💻 About Me
 
-- 🎓 B.E. Computer Science Engineering (Graduating in 2027) — CGPA 8.78
+- 🎓 B.E. Computer Science Engineering (Graduating in 2027) 
 - 🌱 Currently learning **Data Structures & Algorithms**, **Docker**, and CS Fundamentals (Computer Networks & System Design)
 - 💻 Building projects to strengthen my full-stack development skills
 - 🚀 Interested in **Backend Development**, **Full-Stack Development**, and **Software Engineering**
@@ -39,26 +39,9 @@ I'm a Computer Science student passionate about building practical applications,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20(learning)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 
-## 🚀 Projects
-
-- **[Flowz – AI Powered Workflow Automation Tool](https://flowz-agent.vercel.app)**  
-  A no-code automation tool that generates workflows from natural language prompts, with a visual node-based system and real-time execution.
-
-- **[Walpsto – Personal Wallet Web App](https://walpsto.vercel.app)**  
-  A full-stack personal wallet app with session-authenticated private diary entries, document storage, and an admin feedback dashboard.
-
-- **[weatherCast](https://weather-cast-swart.vercel.app/)**  
-  A weather forecast application built with a clean, responsive UI.
-
-- **[Portfolio](https://indhumathi.vercel.app/)**  
-  My personal portfolio showcasing my projects and skills.
-
-<br>
 
 ## 📫 Connect With Me
 
@@ -67,7 +50,7 @@ I'm a Computer Science student passionate about building practical applications,
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Indhumathi-3373)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Indhumathi-3373)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/indhumathi93428)
-
+[!Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)
 <br>
 
 <p align="center">
