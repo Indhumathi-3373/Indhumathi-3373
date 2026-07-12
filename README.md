@@ -1,5 +1,5 @@
 <h1 align="center">Hey Guys 👋 I'm Indhumathi</h1>
-<h3 align="center">Aspiring Full Stack Developer | B.E. Computer Science Engineering</h3>
+<h3 align="center"> Full Stack Developer | B.E. Computer Science Engineering</h3>
 
 <p align="center">
 I'm a Computer Science student passionate about building practical applications, solving programming problems, and continuously improving my development skills. I enjoy learning how real-world applications are designed and built — from frontend interfaces to backend systems.
